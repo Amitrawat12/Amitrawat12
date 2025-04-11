@@ -32,8 +32,8 @@ I am a fullstack developer from India 🇮🇳 I am working as a Associate Consu
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitrawat12&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitrawat12&layout=compact&theme=github_dark)
 
 <!--
 - 🔭 I’m currently working on ...
