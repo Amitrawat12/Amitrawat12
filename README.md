@@ -33,8 +33,8 @@ I am a fullstack developer from India 🇮🇳 I am working as a Associate Consu
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitrawat12&layout=compact&theme=github_dark" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Amitrawat12&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=github_dark" />
+  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitrawat12&layout=compact&theme=github_dark" />
+  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=Amitrawat12&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=github_dark" />
   
 </p> 
 <!--
